@@ -75,7 +75,8 @@ void OptionTests::migrateSettings()
         "    \"onion\": \"onion:234\",\n"
         "    \"par\": \"12\",\n"
         "    \"proxy\": \"proxy:123\",\n"
-        "    \"prune\": \"2861\"\n"
+        "    \"prune\": \"2861\",\n"
+        "    \"upnp\": false\n"
         "}\n");
 }
 
